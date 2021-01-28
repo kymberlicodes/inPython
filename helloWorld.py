@@ -1,5 +1,6 @@
 ## First Python Program
 print("Hello world!")
+print("Hello world!")
 
 ## def feedTheDogs(breakfast, dinner):
 ##	if breakfast or dinner:
